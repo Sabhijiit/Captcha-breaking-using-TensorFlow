@@ -339,9 +339,9 @@ def image_cropper(img):
     
     return crop_img
 
-file_list = (glob.glob(r"C:\Users\Sabhijiit\Desktop\captchured\captcha_segmented_characters\captcha0.png"))
+file_list = (glob.glob(r"data_sets\Images\ablded.png"))
 #print(len(file_list))
-#    img_path = r"C:\Users\Sabhijiit\Documents\Zauba\TensorFlowOCR\ImageSegmentation\Images\spawist.png"
+#img_path = r"C:\Users\Sabhijiit\Documents\Zauba\TensorFlowOCR\ImageSegmentation\Images\spawist.png"
 #sys.exit(0)
 j = 0
 for i in file_list:
