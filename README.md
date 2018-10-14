@@ -7,4 +7,4 @@ It has three parts:
 2. The second part involves training and testing a CNN on the data set generated from the previous step using train_test_model.py. The CNN has two convolutional and pooling layers each.
 3. The third and last step involves taking in as input a random captcha and running it through captcha_breaker.py to predict the string.
 
-'Code is written in Python3.'
+Code is written in `Python3`.
